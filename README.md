@@ -14,10 +14,10 @@
 - Made simple but not simpler
 - Structuring a presentation
   - introduction
--- Background
--- Outline/Agenda
--- Sections: Lead in, Content, Key takeaway
--- Conclusion
+  -Background
+  -Outline/Agenda
+  -Sections: Lead in, Content, Key takeaway
+  -Conclusion
 - Understand your audience
 - Keep it simple
 - Your slides are an aid, not an end product
