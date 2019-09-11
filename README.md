@@ -13,7 +13,7 @@
 
 - Made simple but not simpler
 - Structuring a presentation
--- introduction
+-      introduction
 -- Background
 -- Outline/Agenda
 -- Sections: Lead in, Content, Key takeaway
