@@ -23,7 +23,3 @@
 - Your slides are an aid, not an end product
 - Use Notes
 - Use diagrams and images where appropriate
-
-### I'm an H3 header
-
-#### I'm an H3 header
